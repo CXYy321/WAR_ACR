@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <OutputType>Library</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="MRD\" />
+      <Folder Include="WAR\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="CombatRoutine">
+        <HintPath>bin\Debug\net7.0-windows\CombatRoutine.dll</HintPath>
+      </Reference>
+      <Reference Include="Common">
+        <HintPath>bin\Debug\net7.0-windows\Common.dll</HintPath>
+      </Reference>
+      <Reference Include="ImGui.NET">
+        <HintPath>bin\Debug\net7.0-windows\ImGui.NET.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

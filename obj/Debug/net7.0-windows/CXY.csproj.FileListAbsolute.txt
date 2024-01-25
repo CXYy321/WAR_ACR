@@ -1,0 +1,13 @@
+C:\Users\32149\Desktop\CXY\bin\Debug\net7.0-windows\CXY.deps.json
+C:\Users\32149\Desktop\CXY\bin\Debug\net7.0-windows\CXY.dll
+C:\Users\32149\Desktop\CXY\bin\Debug\net7.0-windows\CXY.pdb
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.csproj.AssemblyReference.cache
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.AssemblyInfoInputs.cache
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.AssemblyInfo.cs
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.csproj.CoreCompileInputs.cache
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.csproj.CopyComplete
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.dll
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\refint\CXY.dll
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\CXY.pdb
+C:\Users\32149\Desktop\CXY\obj\Debug\net7.0-windows\ref\CXY.dll
